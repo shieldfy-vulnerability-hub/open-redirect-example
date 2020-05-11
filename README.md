@@ -2,7 +2,7 @@
 
 ## there is 1 vulnerability
 
-1. Open Redirect in `index.vuln.js` line `26`
+1. Open Redirect in `index.vuln.js` line `27`
 
 ```js
 const Vulnerability1 = (req, res) => {
